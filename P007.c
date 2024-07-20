@@ -1,3 +1,16 @@
+/*
+ * Solution to Project Euler problem 7
+ * Copyright (c) Project LFAF. All rights reserved.
+ *
+ * https://www.nayuki.io/page/project-euler-solutions
+ * https://github.com/Luisfaf/EulerProblemSol
+ */
+/*
+* Find the xxst prime numer
+*/
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
