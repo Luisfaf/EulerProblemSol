@@ -6,7 +6,7 @@
  * https://github.com/Luisfaf/EulerProblemSol
  */
 /*
-* Find the xxst prime numer
+* Find the xxst prime number
 */
 
 
